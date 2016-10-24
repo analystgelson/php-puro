@@ -1,7 +1,6 @@
 <?php
 
-$var = new PHPMailer();
-$client = new Client();
+$guzzle = new \Guzzle\Guzzle();
 
 ?>
 
